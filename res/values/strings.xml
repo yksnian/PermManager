@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">权限工具</string>
+    <string name="perm_list">权限列表</string>
+    <string name="installed_app">权限工具</string>
+    <string name="before">请配置《</string>
+    <string name="notice">default</string>
+    <string name="after">》的权限，点保存生效</string>
+    <string name="btn_all">全部禁用</string>
+    <string name="btn_cancel">全部恢复</string>
+    <string name="btn_save">保存</string>
+	<string name="app_list">已安装应用程序列表：</string>
+</resources>
